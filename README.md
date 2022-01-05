@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makeavel&layout=compact&hide=Batchfile,css,shell,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRCapanema&layout=compact&hide=Batchfile,css,shell,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRCapanema&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <h3>Stacks dominadas<h3>
