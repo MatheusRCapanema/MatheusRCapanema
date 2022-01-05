@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, how's going?
 
 <div style="display: inline_block"><br>
   <h3>Stacks dominadas<h3>
@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhamdo numa aplicação empresarias de suporte
-- 🌱 Laravel e PHP
+- 🔭 Actually i'm working in a interprise application about support
+- 🌱 Today i'm learning Laravel and PHP
 
 
