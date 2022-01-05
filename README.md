@@ -11,7 +11,6 @@
   
 </div>
 
-Here are some ideas to get you started:
 
 - 🔭 Actually i'm working in a interprise application about support
 - 🌱 Today i'm learning Laravel and PHP
