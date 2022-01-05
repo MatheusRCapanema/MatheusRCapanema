@@ -1,7 +1,6 @@
 ### Hello, how's going?
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MatheusRCapanema?cardType=github&theme=github-dark&Title=FFFFFF&Text=FFFFFF)](https://git.io/awesome-stats-card)
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&Title=FFFFFF&Text=FFFFFF">    <img  alt="MatheusRCapanema's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatheusRCapanema?cardType=github&theme=github-dark&Title=FFFFFF&Text=FFFFFF" />  </a>
 
 <div style="display: inline_block"><br>
   <h3>Dominated Languages<h3>
