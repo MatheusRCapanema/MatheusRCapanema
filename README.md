@@ -1,7 +1,7 @@
 ### Hello, how's going?
 
 <div style="display: inline_block"><br>
-  <h3>Stacks dominadas<h3>
+  <h3>Dominated Languages<h3>
   <img align="center" alt="Mkvl-JS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Mkvl-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
   <img align="center" alt="Mkvl-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
