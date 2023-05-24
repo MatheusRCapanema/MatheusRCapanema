@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusrcapanema" alt="matheusrcapanema" /></a> </p>
 
-- 🔭 I’m currently working on **HelDesk**
+- 🔭 I’m currently working on **BotequimBox**
 
-- 🌱 I’m currently learning **PHP with Laravel**
+- 🌱 I’m currently learning **Java with Springboot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
